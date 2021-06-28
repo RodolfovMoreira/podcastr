@@ -4,8 +4,8 @@
 
 ## Podcastr
 
-[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/RodolfovMoreira)
-[![Languages](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
+[![Author](https://img.shields.io/badge/author-rodolfomoreira-8257E5?style=flat-square)](https://github.com/RodolfovMoreira)
+[![Languages](https://img.shields.io/github/languages/count/rodolfovmoreira/podcastr?color=%238257E5&style=flat-square)](#)
 
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
